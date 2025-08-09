@@ -1,0 +1,24 @@
+{
+  "name": "fmwebsocketv6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsmanX5/FMWebSocketV6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsmanX5/FMWebSocketV6/issues"
+  },
+  "homepage": "https://github.com/OsmanX5/FMWebSocketV6#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "ws": "^8.18.3"
+  }
+}
